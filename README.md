@@ -11,7 +11,7 @@ This React app displays a list of products with details including name, descript
 
 ### Setup Instructions:
 1. Clone the repository:
-   git clone https://github.com/your-username/ecommerce-app.git
+   git clone https://github.com/your-username/e-commerce-app.git
 
 2. Install dependencies:
    npm install
