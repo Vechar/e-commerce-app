@@ -1,15 +1,15 @@
-E-Commerce Product Listing App
+# E-Commerce Product Listing App
 
-Description:
+### Description:
 This React app displays a list of products with details including name, description, price, quantity, and image. It uses React components and props to manage and render data. The app avoids external CSS frameworks and uses custom styling.
 
-Features:
+### Features:
 - Product list managed with React useState hook
 - Components: App (parent), ProductList (child), ProductItem (grandchild)
 - Dynamic rendering of product details
 - Custom CSS layout and styling
 
-Setup Instructions:
+### Setup Instructions:
 1. Clone the repository:
    git clone https://github.com/your-username/ecommerce-app.git
 
@@ -19,8 +19,8 @@ Setup Instructions:
 3. Run the development server:
    npm run dev
 
-Technologies:
+### Technologies:
 React, JavaScript, CSS
 
-License:
+### License:
 Open source, free to use
